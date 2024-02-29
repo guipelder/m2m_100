@@ -1,0 +1,1 @@
+It's worth mentioning that most modern programming languages and libraries handle text input and output transparently, abstracting away details related to encodings and platform-specific conventions. 
